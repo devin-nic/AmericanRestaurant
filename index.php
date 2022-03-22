@@ -31,6 +31,7 @@
       <div class="hero-text">
         <h1>The American Restaurant</h1>
         <p>Official Site</p>
+        <button onclick="makeReservation()">Make a Reservation</button>
       </div>
   </div>
 
@@ -62,10 +63,26 @@
       
       <div class="row">
         <div class="col">
-          Left text
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+        labore et dolore magna aliqua. Consequat semper viverra nam libero justo laoreet. 
+        Elementum eu facilisis sed odio morbi quis commodo. Amet volutpat consequat mauris nunc congue
+        nisi vitae suscipit tellus. Viverra justo nec ultrices dui sapien eget mi proin sed. 
+        Nunc vel risus commodo viverra maecenas accumsan. Pellentesque eu tincidunt tortor aliquam nulla
+        facilisi cras. Et netus et malesuada fames ac. Nibh praesent tristique magna sit amet purus
+        gravida quis. Netus et malesuada fames ac turpis. Turpis massa tincidunt dui ut.
+        Suspendisse interdum consectetur libero id faucibus.
         </div>
         <div class="col">
-          Right text
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+        labore et dolore magna aliqua. Nullam ac tortor vitae purus faucibus ornare suspendisse.
+        Accumsan sit amet nulla facilisi morbi tempus iaculis urna.
+        In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Adipiscing elit ut aliquam
+        purus sit amet. Nisi vitae suscipit tellus mauris a diam maecenas
+        sed enim.
+        </br> </br>
+        Non enim praesent elementum facilisis leo. Suscipit adipiscing bibendum est ultricies integer quis auctor
+         elit. Non enim praesent elementum facilisis. Nunc consequat interdum varius sit amet
+         mattis vulputate enim. Enim sed faucibus turpis in.
         </div>
       </div>
 
