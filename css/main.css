@@ -56,7 +56,6 @@ nav {
 /* footer */
 .container {
     min-height: calc(100vh - 70px);
-    margin-bottom: 90px;
     margin-top: 10%;
 }
 footer{
